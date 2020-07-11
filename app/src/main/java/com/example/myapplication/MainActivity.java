@@ -11,10 +11,16 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
+
     private fun Login(){
         // Sign in function
     }
+
     private fun LoadData(){
         // Use network to acquire data
+    }
+
+    private fun UpLoad(){
+        // Uplate Data
     }
 }
