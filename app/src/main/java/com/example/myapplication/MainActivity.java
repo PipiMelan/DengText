@@ -14,4 +14,7 @@ public class MainActivity extends AppCompatActivity {
     private fun Login(){
         // Sign in function
     }
+    private fun LoadData(){
+        // Use network to acquire data
+    }
 }
